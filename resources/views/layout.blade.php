@@ -5,18 +5,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.css">
-    <link rel="stylesheet" href="css/owl.theme.css">
-    <link rel="stylesheet" href="css/nivo-lightbox/nivo-lightbox.css">
-    <link rel="stylesheet" href="css/nivo-lightbox/nivo-lightbox-theme.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/owl.carousel.css">
+    <link rel="stylesheet" href="/css/owl.theme.css">
+    <link rel="stylesheet" href="/css/nivo-lightbox/nivo-lightbox.css">
+    <link rel="stylesheet" href="/css/nivo-lightbox/nivo-lightbox-theme.css">
+    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="/css/style.css">
 
 
-    <script src="js/modernizr.custom.js"></script>
+    <script src="/js/modernizr.custom.js"></script>
 
 </head>
 <body>
@@ -28,15 +28,15 @@
 
 
 
-    <script src="js/jquery-1.11.2.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/owl-carousel.js"></script>
-    <script src="js/nivo-lightbox.min.js"></script>
-    <script src="js/smoothscroll.js"></script>
+    <script src="/js/jquery-1.11.2.min.js"></script>
+    <script src="/js/wow.min.js"></script>
+    <script src="/js/owl-carousel.js"></script>
+    <script src="/js/nivo-lightbox.min.js"></script>
+    <script src="/js/smoothscroll.js"></script>
     <!--<script src="js/jquery.ajaxchimp.min.js"></script>-->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/classie.js"></script>
-    <script src="js/script.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/classie.js"></script>
+    <script src="/js/script.js"></script>
     <script>
         new WOW().init();
     </script>
