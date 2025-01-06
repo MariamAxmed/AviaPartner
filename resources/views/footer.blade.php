@@ -7,13 +7,13 @@
         </div>
         <div class="footer-logos">
             <div class="logo-container">
-                <a href="https://www.flydubai.com/en-az/" target="_balnk"><img src="img/flydubai.png" alt="Fly Dubai Logo"></a>
+                <a href="https://www.flydubai.com/en-az/" target="_balnk"><img src="/img/flydubai.png" alt="Fly Dubai Logo"></a>
             </div>
             <div class="logo-container">
-                <a href="https://www.flypgs.com/" target="_balnk"><img src="img/georgian_wings.png" alt="Georgian Wings Logo"></a>
+                <a href="https://www.flypgs.com/" target="_balnk"><img src="/img/georgian_wings.png" alt="Georgian Wings Logo"></a>
             </div>
             <div class="logo-container">
-                <a href="https://georgianwings.com/" target="_balnk"><img src="img/pegasus.png" alt="Pegasus Logo"></a>
+                <a href="https://georgianwings.com/" target="_balnk"><img src="/img/pegasus.png" alt="Pegasus Logo"></a>
             </div>
         </div>
         <ul class="social-icons text-center">

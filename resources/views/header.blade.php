@@ -44,22 +44,22 @@
                     </div>
                     <div class="col-md-3">
                         <div class="logo-container">
-                            <a href="https://voyager.group/" target="_balnk"><img src="img/voyager.png" style="margin-top: 63px !important" alt="Voyager Logo"></a>
+                            <a href="https://voyager.group/" target="_balnk"><img src="/img/voyager.png" style="margin-top: 63px !important" alt="Voyager Logo"></a>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="logo-container">
-                            <a href="https://www.fcctravels.com/" target="_balnk"><img src="img/fcc-travel.png" style="width: 120px !important" alt="FccTravel Logo"></a>
+                            <a href="https://www.fcctravels.com/" target="_balnk"><img src="/img/fcc-travel.png" style="width: 120px !important" alt="FccTravel Logo"></a>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="logo-container">
-                            <a href="https://www.flypgs.com/en" target="_balnk"><img src="img/pegasus.png" alt="Pegasus Logo"></a>
+                            <a href="https://www.flypgs.com/en" target="_balnk"><img src="/img/pegasus.png" alt="Pegasus Logo"></a>
                         </div>
                     </div>
 {{--                    <div class="col-md-3">--}}
 {{--                        <div class="logo-container">--}}
-{{--                            <a href="https://georgianwings.com/" target="_balnk"><img src="img/fcc-travel.svg" alt="FccTravel Logo"></a>--}}
+{{--                            <a href="https://georgianwings.com/" target="_balnk"><img src="/img/fcc-travel.svg" alt="FccTravel Logo"></a>--}}
 {{--                        </div>--}}
 {{--                    </div>--}}
                 </div>
@@ -71,7 +71,7 @@
                     <div class="row">
                         <div class="col-md-11 col-xs-10">
                             <a href="#" id="logo">
-                                <img src="img/l1.png" alt="AVIA PARTNER Logo">
+                                <img src="/img/l1.png" alt="AVIA PARTNER Logo">
                             </a>
                         </div>
                         <div class="col-md-1 col-xs-2">
